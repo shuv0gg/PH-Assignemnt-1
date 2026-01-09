@@ -1,3 +1,38 @@
-body {
-  background-color: black;
+* {
+  font-family: Inter;
+}
+nav {
+  max-width: 1200px;
+  margin: auto;
+  padding: 12px 12px;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
+.menu {
+  display: flex;
+  gap: 30px;
+}
+nav li a {
+  text-decoration: none;
+  color: #181818;
+}
+.primary-btn {
+  background-color: #469165;
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  border: none;
+  padding: 18px 35px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.primary-btn:hover {
+  background-color: #fd6e0a;
 }
