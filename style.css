@@ -265,6 +265,9 @@ footer {
   display: flex;
   gap: 16px;
 }
+.social-div a:hover {
+  background-color: #469165;
+}
 .footer-line {
   opacity: 0.2;
   background: #e5e7eb;
