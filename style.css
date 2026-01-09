@@ -141,7 +141,7 @@ main {
 }
 .problems-section {
   display: flex;
-  margin: 0px 120px;
+  margin: 20px 120px;
   justify-content: center;
   text-align: center;
 }
