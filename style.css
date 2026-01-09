@@ -238,3 +238,39 @@ main {
   font-size: 16px;
   font-weight: 400;
 }
+footer {
+  background-color: #001931;
+  padding: 120px 120px 30px 120px;
+}
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 84px;
+}
+.social-div {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-right: 50px;
+}
+.social-div p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+}
+.social-div div {
+  display: flex;
+  gap: 16px;
+}
+.footer-line {
+  opacity: 0.2;
+  background: #e5e7eb;
+  margin-bottom: 30px;
+}
+.copyright {
+  color: #fafafa;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
