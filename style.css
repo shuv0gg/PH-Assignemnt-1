@@ -19,7 +19,7 @@ nav ul {
 }
 .menu {
   display: flex;
-  gap: 30px;
+  gap: 32px;
 }
 nav li a {
   text-decoration: none;
@@ -39,7 +39,7 @@ nav li a {
   cursor: pointer;
 }
 .primary-btn:hover {
-  background-color: #fd6e0a;
+  background-color: #001931;
 }
 .hero-section {
   display: flex;
@@ -101,7 +101,7 @@ nav li a {
   gap: 8px;
 }
 .section-btn:hover {
-  background-color: #fd6e0a;
+  background-color: #001931;
 }
 .btn {
   background-color: transparent;
